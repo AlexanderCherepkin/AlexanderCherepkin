@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am a Frontend developer
 
 <!--
 **AlexanderCherepkin/AlexanderCherepkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
