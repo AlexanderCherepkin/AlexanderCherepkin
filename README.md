@@ -1,5 +1,5 @@
 ### Hi I am a Frontend developer
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderCherepkin)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 <br />
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
