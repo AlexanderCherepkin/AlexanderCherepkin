@@ -1,4 +1,4 @@
-![Header](https://github.com/AlexanderCherepkin/AlexanderCherepkin/blob/main/images/origin.jpg)
+![Header](https://github.com/AlexanderCherepkin/AlexanderCherepkin/blob/main/images/logo.png)
 
 ### Hi I am a Frontend developer
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderCherepkin)](https://github.com/ryo-ma/github-profile-trophy)
