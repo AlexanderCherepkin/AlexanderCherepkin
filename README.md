@@ -1,7 +1,5 @@
 ### Hi I am a Frontend developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin&show_icons=true&theme=radical)
 
 
