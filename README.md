@@ -1,7 +1,6 @@
 ### Hi I am a Frontend developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin&show_icons=true&theme=radical)
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={AlexanderCherepkin}&theme={theme_name}
 
 
 <!--
