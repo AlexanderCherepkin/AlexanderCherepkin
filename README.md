@@ -1,5 +1,5 @@
 ### Hi I am a Frontend developer
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Alexander Cherepkin=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AlexanderCherepkin=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **AlexanderCherepkin/AlexanderCherepkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
