@@ -6,8 +6,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin&show_icons=true&theme=merko)
 
+- 🔭 I’m currently working on My new project 
+- 🌱 I’m currently learning IT Overone 
+- 👯 I’m looking to collaborate on with other web and backend developers 
+- 💬 Ask me about about web development... 
+- 📫 How to reach me: email: frontend.alexander@gmail.com 
+- ⚡ Fun fact: web development is a dynamic and fast-growing area of programming. Developers must constantly learn new things technologies and programming languages. 
 
-Skills: HTML/CSS/SCSS/GULP/WebPack/JawaScript/Node.js/React
+
+
+
+
 
 
 
