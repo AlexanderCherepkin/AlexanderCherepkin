@@ -6,5 +6,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin&show_icons=true&theme=merko)
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+Skills: HTML/CSS/SCSS/GULP/WebPack/JawaScript/Node.js/React
+
+
+
+
+
+
+
 
