@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin&show_icons=true&theme=merko)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexanderCherepkin&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 🔭 I’m currently working on My new project 
 - 🌱 I’m currently learning IT Overone 
 - 👯 I’m looking to collaborate on with other web and backend developers 
