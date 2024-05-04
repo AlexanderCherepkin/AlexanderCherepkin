@@ -13,13 +13,8 @@
 - 📫 How to reach me: email: frontend.alexander@gmail.com 
 - ⚡ Fun fact: web development is a dynamic and fast-growing area of programming. Developers must constantly learn new things technologies and programming languages.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-### Skills
+### Skills:
 
 
 <p align="left">
