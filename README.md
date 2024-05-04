@@ -6,5 +6,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin&show_icons=true&theme=merko)
 
-[![trophy](https://github.com/AlexanderCherepkin/AlexanderCherepkin/blob/main/index.html)
+###(https://github.com/AlexanderCherepkin/AlexanderCherepkin/blob/main/index.html)
 
