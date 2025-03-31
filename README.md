@@ -1,12 +1,12 @@
-![Header](https://github.com/AlexanderCherepkin/AlexanderCherepkin/blob/main/images/logo.png)
+![Header](https://github.com/AlexanderCharepkin/AlexanderCharepkin/blob/main/images/logo.png)
 
 ### Hi I am a Frontend developer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderCherepkin)](https://github.com/AlexanderCherepkin/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderCharepkin)](https://github.com/AlexanderCharepkin/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCherepkin&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderCharepkin&show_icons=true&theme=merko)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexanderCherepkin&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexanderCharepkin&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on My new project 
 - 🌱 I’m currently learning IT Overone 
